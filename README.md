@@ -18,7 +18,7 @@ Learning data science aiming to become data scientist in the near future. Feedba
 ## Projetos:
 
 * **Analisando os dados do Airbnb de Paris:** https://bit.ly/3bKwOpJ
-
+* **Analisando a violência no Rio de Janeiro:** https://bit.ly/36wrxAQ
 ---
 
 
