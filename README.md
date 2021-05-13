@@ -7,7 +7,7 @@
 # Felipe Andrade
 <sub>Customer Service Team Lead and Data Science Student</sub>
 
-Learning data science aiming to become data scientist in the near future. Feedbacks are apreciated.
+Professional with experience workin on startups trying to change field to data science.
 
 **Background in:** SQL.
 
