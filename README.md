@@ -20,6 +20,8 @@ Learning data science aiming to become data scientist in the near future. Feedba
 * **Analisando os dados do Airbnb de Paris:** https://bit.ly/3bKwOpJ
 * **Analisando a violência no Rio de Janeiro:** https://bit.ly/36wrxAQ
 * **Prevendo as notas de matématica do Enem 2016:** https://bit.ly/3h9sG6q
+* * **Análise COVID no Brasil 2020:** https://bit.ly/3eFFCBW
+* * **Prevendo as internações por covid no Sírio Libanês:** https://bit.ly/3tMocrw
 ---
 
 
