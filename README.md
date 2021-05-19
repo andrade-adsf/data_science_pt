@@ -5,7 +5,7 @@
 </p>
 
 # Felipe Andrade
-<sub>Customer Service Team Lead and Data Science Student</sub>
+<sub>Customer Service Team Lead and Data Science Enthusiast</sub>
 
 Professional with experience workin on startups trying to change to data science field.
 
