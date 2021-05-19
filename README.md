@@ -7,7 +7,7 @@
 # Felipe Andrade
 <sub>Customer Service Team Lead and Data Science Student</sub>
 
-Professional with experience workin on startups trying to change field to data science.
+Professional with experience workin on startups trying to change to data science field.
 
 **Background in:** SQL.
 
@@ -21,7 +21,7 @@ Professional with experience workin on startups trying to change field to data s
 * **Analisando a violência no Rio de Janeiro:** https://bit.ly/36wrxAQ
 * **Prevendo as notas de matématica do Enem 2016:** https://bit.ly/3h9sG6q
 * **Análise COVID no Brasil 2020:** https://bit.ly/3eFFCBW
-* **Prevendo as internações por covid no Sírio Libanês:** https://bit.ly/3tMocrw
+* **Prevendo as internações por covid no Sírio Libanês:** https://bit.ly/3hBtcg7
 ---
 
 
