@@ -19,9 +19,9 @@ Experienced working on startups as customer service analyst and team lead.
 ## Projetos:
 
 * **Analisando os dados do Airbnb de Paris:** https://bit.ly/3JAcwRC
-* **Análise COVID no Brasil 2020:** https://bit.ly/3eFFCBW
-* **Prevendo as notas de matématica do Enem 2016:** https://bit.ly/3h9sG6q
-* **Prevendo as internações por covid no Sírio Libanês:** https://bit.ly/3hBtcg7
+* **Análise COVID no Brasil 2020:** https://bit.ly/3ilRbiD
+* **Prevendo as notas de matématica do Enem 2016:** https://bit.ly/3N9EgOO
+* **Prevendo as internações por covid no Sírio Libanês:** https://bit.ly/3tq9Xvw
 ---
 
 
