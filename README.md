@@ -5,11 +5,12 @@
 </p>
 
 # Felipe Andrade
-<sub>Customer Service Team Lead and Data Science Enthusiast</sub>
+<sub>Data Analyst | Data Scientist</sub>
 
-Professional with experience workin on startups trying to change to data science field.
+Data analyst studying to become data scientist, here you can find my data science projects.
+Experienced working on startups as customer service analyst and team lead.
 
-**Background in:** SQL.
+**Background in:** Python, SQL and SAS.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/ads-felipe)
@@ -18,9 +19,8 @@ Professional with experience workin on startups trying to change to data science
 ## Projetos:
 
 * **Analisando os dados do Airbnb de Paris:** https://bit.ly/3bKwOpJ
-* **Analisando a violência no Rio de Janeiro:** https://bit.ly/36wrxAQ
-* **Prevendo as notas de matématica do Enem 2016:** https://bit.ly/3h9sG6q
 * **Análise COVID no Brasil 2020:** https://bit.ly/3eFFCBW
+* **Prevendo as notas de matématica do Enem 2016:** https://bit.ly/3h9sG6q
 * **Prevendo as internações por covid no Sírio Libanês:** https://bit.ly/3hBtcg7
 ---
 
