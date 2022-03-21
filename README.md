@@ -5,12 +5,12 @@
 </p>
 
 # Felipe Andrade
-<sub>Data Analyst | Data Scientist</sub>
+<sub>Analista de dados | Cientista de dados</sub>
 
-Data analyst studying to become data scientist, here you can find my data science projects.
-Experienced working on startups as customer service analyst and team lead.
+Analista de dados estudando para me tornar cientista de dados, aqui você consegue ver meus projetos de ciência de dados.
+Experiência trabalhando em startups como analista de atendimento ao cliente e lider de atendimento ao cliente.
 
-**Background in:** Python, SQL and SAS.
+**Background em:** Python, SQL and SAS.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/ads-felipe)
